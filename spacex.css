@@ -1,0 +1,15 @@
+img {
+    background:url("https://sxcontent9668.azureedge.us/cms-assets/assets/Euclid_outsidetowerh_IMG_2487_desktop_a75e89406d.jpg"),
+                    url("https://sxcontent9668.azureedge.us/cms-assets/assets/STARSHIP_Testflight_DESKTOP_2b3bea613a.jpg"),
+                    url("https://sxcontent9668.azureedge.us/cms-assets/assets/Star_5_12_DSC_7006_desktop_04baf467a8.jpg"),
+                    url("https://sxcontent9668.azureedge.us/cms-assets/assets/PSN_Satria_pad39a_DSC_6855_desktop_6dd3f9c0d0.jpg"),
+                    url("https://sxcontent9668.azureedge.us/cms-assets/assets/STARSHIP_Testflight_DESKTOP_2b3bea613a.jpg");
+                    width: 99vw; 
+                    height: 100vh; 
+                    object-fit: cover;
+                }
+
+#logo {
+    width: 50px;
+    height: 50px;
+}
